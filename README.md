@@ -82,4 +82,4 @@ A rede aprende a função $V(S,t)$ que minimiza o resíduo dessa equação, resp
 Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
 
 ---
-Desenvolvido com ❤️ por Antigravity
+Desenvolvido por Luiz Tiago Wilcke
